@@ -1,0 +1,110 @@
+body {
+
+    font-family: "Outfit", sans-serif;
+    margin: 5%;
+    box-sizing: border-box;
+    color: #00000093;
+}
+
+p {
+
+    font-size: 16px;
+    font-family: "Outfit", sans-serif;
+    font-weight: 400;
+}
+
+img {
+
+    width: 100%;
+    border-radius: 20px;
+}
+
+h1, h2 {
+
+    font-family: "Young Serif", serif;
+    color: initial;
+}
+
+div h1 {
+
+    font-family: "Young Serif", serif;
+    font-weight: 600;
+    font-size: 60px;
+}
+
+.Preparation-time {
+
+    background-color:hsl(330, 100%, 98%);
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.Preparation-time h4 {
+
+    color:hsl(332, 51%, 32%);
+    padding-top: 45px;
+    padding-left: 25px;
+    font-weight: bold;
+    margin: 0 0 0 25px;
+    padding: 15px 0 0 0;
+}
+
+li {
+    
+    line-height: 2rem;
+    margin-left: 12px;
+    padding-left: 5px;
+}
+
+.Preparation-time li::marker {
+    
+    color:hsl(332, 51%, 32%);
+}
+
+span {
+
+    font-weight: bold;
+    color: black;
+}
+
+h2,  li::marker{
+
+    color: hsl(14, 45%, 36%);
+}
+
+table {
+
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+td {
+
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+td:last-child {
+
+    color: hsl(14, 45%, 36%);
+    font-weight: bold;
+}
+
+.last {
+
+    border-bottom:unset;
+}
+
+.attribution { 
+
+    font-size: 11px;
+    text-align: center;
+    margin-top: 10px;
+}
+    
+ .attribution a { 
+    
+    color: hsl(228, 45%, 44%); 
+}

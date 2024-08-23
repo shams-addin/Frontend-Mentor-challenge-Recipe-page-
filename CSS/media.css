@@ -1,0 +1,30 @@
+@media screen and (max-width: 576px) {
+    
+    body {
+
+        margin: 7%;
+    }
+
+    .image {
+
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+   
+    img {
+
+        border-radius: unset;
+    }
+
+    .simple-omelette{
+
+        margin-top: 220px;
+    }
+
+    div h1 {
+
+        font-size: 40px;
+    }
+    
+}
