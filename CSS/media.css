@@ -2,7 +2,8 @@
     
     body {
 
-        margin: 7%;
+        margin: 3%;
+        background-color: unset;
     }
 
     .image {
@@ -19,12 +20,12 @@
 
     .simple-omelette{
 
-        margin-top: 220px;
+        margin-top: 163px;
     }
 
     div h1 {
 
-        font-size: 40px;
+        font-size: 35px;
     }
     
 }
